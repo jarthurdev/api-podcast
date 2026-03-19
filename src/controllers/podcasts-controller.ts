@@ -13,8 +13,8 @@ export const getListEpisodes = async (
 
     const content = await serviceListEpisodes();
 
-    res.writeHead(200, { 'Content-Type': 'application/json' });
-    res.end(JSON.stringify(content));
+    res.writeHead(content.statusCode, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify(content.body));
 }
 
 export const getFilterEpisodes = async (
