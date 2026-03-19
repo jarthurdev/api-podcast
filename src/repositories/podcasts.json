@@ -1,0 +1,24 @@
+[
+    {
+        "podcastName": "JoeRogan",
+        "episode": "Episode 3",
+        "videoId": "ghi789",
+        "url": "https://www.youtube.com/watch?v=ghi789",
+        "categories": ["Comedy", "Talk Show"]
+    },
+    {
+        "podcastName": "JoeRogan",
+        "episode": "Episode 4",
+        "videoId": "jkl012",
+        "url": "https://www.youtube.com/watch?v=jkl012",
+        "categories": ["Comedy", "Talk Show"]
+    },
+    {
+        "podcastName": "Sentinels",
+        "episode": "Episode 5",
+        "videoId": "mno345",
+        "url": "https://www.youtube.com/watch?v=mno345",
+        "categories": ["ORG", "eSports"]
+    }
+        
+]
